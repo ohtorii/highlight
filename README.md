@@ -1,4 +1,4 @@
-# 秀丸エディタのハイライト設定
+# 秀丸エディタのハイライト設定集
 
 - [Vim scriptの強調表示](#vim-scriptの強調表示)
 - [Shell Script(Bash)の強調表示](#shell-scriptbashの強調表示)
